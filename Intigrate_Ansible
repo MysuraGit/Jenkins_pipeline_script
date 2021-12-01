@@ -1,6 +1,8 @@
 # Frist Install Ansible
 
+which ansible
 
+/usr/bin/ansible
 
 $ sudo apt update
 $ sudo apt install software-properties-common
